@@ -15,6 +15,7 @@ function Contact () {
             <p class=" text-white text-sm font-bold text-center pt-[4px] lg:text-[20px] lg:pt-[16px]">All rights Reserved</p>
         </div>
     </>
+    
     );
 }
 export default Contact
