@@ -9,6 +9,7 @@ module.exports = {
     "./src/hazem1/portfolio.js",
     "./src/hazem1/about.js",
     "./src/hazem1/contact.js",
+    "./src/hazem1/Serve.js"
   ],
   theme: {
     extend: {
