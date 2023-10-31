@@ -6,7 +6,6 @@ import Portfolio from './hazem1/portfolio';
 import About from './hazem1/about';
 import Contact from './hazem1/contact';
 import Dnav from './hazem1/cards';
-// import Serve from './hazem1/Serve';
 
 function App() {
   return (
@@ -14,7 +13,6 @@ function App() {
     <Nav/>
     <Heading/>
     <Dnav/>
-    {/* <Serve/> */}
     <Serving/>
     <Portfolio/>
     <About/>
